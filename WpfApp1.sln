@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetframeworkWPF", "WpfApp1\dotnetframeworkWPF.csproj", "{D7C0A0E1-928F-456D-A3BC-92D3E3777187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcoreWPF", "dotnetcoreWPF\dotnetcoreWPF.csproj", "{9E37953A-C984-46AC-87A8-CC6313EEE483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C0A0E1-928F-456D-A3BC-92D3E3777187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C0A0E1-928F-456D-A3BC-92D3E3777187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C0A0E1-928F-456D-A3BC-92D3E3777187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C0A0E1-928F-456D-A3BC-92D3E3777187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E37953A-C984-46AC-87A8-CC6313EEE483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E37953A-C984-46AC-87A8-CC6313EEE483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E37953A-C984-46AC-87A8-CC6313EEE483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E37953A-C984-46AC-87A8-CC6313EEE483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390A3F0C-7992-4D61-8E70-8D93023DC2CA}
+	EndGlobalSection
+EndGlobal
